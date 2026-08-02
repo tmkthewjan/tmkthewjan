@@ -1,22 +1,23 @@
 <!-- Profile README for tmkthewjan -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Full-Stack%20Developer-4B68F0?style=for-the-badge&logo=dev&logoColor=white" alt="Full Stack Developer" />
+  <img src="https://placehold.co/980x240/7c3aed-ec4899/ffffff?font=roboto&fontSize=50&text=Tm.K+Thewjantmkthewjan" alt="Hero Banner" width="100%" />
+</p>
+
+<p align="center" style="margin-top: 12px;">
+  <strong>Machine Learning Enthusiast</strong>
+</p>
+
+<p align="center">
+  <img src="https://placehold.co/940x220/0f172a-1e293b/ffffff?font=roboto&fontSize=30&text=AI+Undergraduate+•+Full-Stack+Developer+•+Open+Source+Builder" alt="Hero Card" width="100%" style="border-radius: 28px;" />
+</p>
+
+<p align="center" style="margin-top: 16px;">
+  <img src="https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-</p>
-
-<h1 align="center">Tm.K Thewjantmkthewjan</h1>
-
-<p align="center">
-  <strong>3rd-year Information Technology student</strong> · Full-stack developer in training
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
 ---
