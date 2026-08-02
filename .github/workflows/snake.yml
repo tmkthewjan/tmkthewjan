@@ -21,7 +21,7 @@ jobs:
       - name: Generate snake SVG
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: Dilshan-Pasindu
+          github_user_name: tmkthewjan
           outputs: |
             assets/snake.svg
 

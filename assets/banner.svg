@@ -13,9 +13,9 @@
   <circle cx="1000" cy="90" r="140" fill="#ffffff" fill-opacity="0.08"/>
   <circle cx="220" cy="255" r="160" fill="#ffffff" fill-opacity="0.06"/>
   <rect x="80" y="70" width="420" height="180" rx="24" fill="#0B1220" fill-opacity="0.65" stroke="url(#accent)" stroke-opacity="0.7"/>
-  <text x="116" y="140" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="36" font-weight="700">Dilshan Pasindu</text>
-  <text x="116" y="182" fill="#A5B4FC" font-family="Segoe UI, Arial, sans-serif" font-size="20">AI Undergraduate • Full-Stack Developer • Open Source Builder</text>
-  <text x="116" y="214" fill="#67E8F9" font-family="Segoe UI, Arial, sans-serif" font-size="18">Building AI products, LLM experiences, and reliable software.</text>
+  <text x="116" y="140" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="36" font-weight="700">Tm.K Thewjantmkthewjan</text>
+  <text x="116" y="182" fill="#A5B4FC" font-family="Segoe UI, Arial, sans-serif" font-size="20">3rd‑year IT Student • Full‑Stack Developer</text>
+  <text x="116" y="214" fill="#67E8F9" font-family="Segoe UI, Arial, sans-serif" font-size="18">Building web applications using JavaScript, TypeScript, React, and Node.js.</text>
   <rect x="820" y="98" width="200" height="124" rx="18" fill="#111827" fill-opacity="0.8" stroke="#38BDF8" stroke-opacity="0.8"/>
   <path d="M865 176C882 146 904 132 928 126C946 122 962 124 978 138" stroke="#22D3EE" stroke-width="8" stroke-linecap="round"/>
   <circle cx="865" cy="176" r="12" fill="#22D3EE"/>
