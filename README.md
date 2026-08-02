@@ -1,3 +1,66 @@
+Tm.K Thewjantmkthewjan
+
+🎓 3rd‑year IT Student • Full‑Stack Developer in training
+
+---
+
+## 👋 Hello
+
+I'm Tm.K Thewjantmkthewjan — a 3rd‑year Information Technology student passionate about building end‑to‑end web applications. I enjoy working across the stack, from user interfaces in React to backend APIs and databases. Currently focused on JavaScript, TypeScript, React, Node.js, and the MERN stack.
+
+## 🚀 Quick Summary
+
+- Education: 3rd‑year IT undergraduate
+- Focus: Full‑stack web development (MERN), TypeScript, modern JavaScript
+- Interests: Web apps, REST APIs, deployment, developer tooling, learning AI/ML concepts
+
+---
+
+## 🛠 Tech Stack
+
+- Languages: JavaScript, TypeScript, HTML, CSS
+- Frontend: React, Next.js (learning), Tailwind/CSS
+- Backend: Node.js, Express
+- Databases: MongoDB (Mongoose)
+- Tools: Git, GitHub, npm/yarn, Docker (basics)
+
+---
+
+## ✨ Featured Projects
+
+- **Complete-TechStore-MERN-e-commerce-management-system** — A MERN full‑stack e‑commerce demo showing product management, cart, and orders. Good evidence of end‑to‑end skills. ([Repo](https://github.com/tmkthewjan/Complete-TechStore-MERN-e-commerce-management-system))
+- **gym-management-app** — TypeScript project demonstrating structured code and type safety. ([Repo](https://github.com/tmkthewjan/gym-management-app))
+- **i-computer** — Frontend/utility project built with JavaScript. ([Repo](https://github.com/tmkthewjan/i-computer))
+- **tmkthewjan** — This profile repo (forked). Use this README as your personal homepage; customize it to reflect your own projects.
+
+---
+
+## ✅ Recent activity & strengths
+
+- Builds full‑stack projects (MERN) — demonstrates understanding of UI, API, and persistence.
+- Uses TypeScript in projects — shows awareness of maintainability and types.
+- Actively updating repos — shows commitment to learning and iterating.
+
+---
+
+## ⚡ Recommended next improvements (I can implement these for you)
+
+1. Improve each repo's `README.md`: add purpose, install/run steps, screenshot/GIF, and demo link.
+2. Add `LICENSE` and `.gitignore` where missing, and an `.env.example` for projects that use env vars.
+3. Set up GitHub Actions to run linters and basic tests on push/PR.
+4. Deploy demos (Vercel/Netlify for frontend; Render/Heroku for full‑stack) and add live links.
+5. Pin 2–3 best projects on your profile (not the forked template) to showcase your work.
+
+---
+
+## 📫 Contact
+
+- GitHub: https://github.com/tmkthewjan
+- Email: (add your preferred email to a project README or contact card)
+
+---
+
+If you want, I can: generate polished `README.md` templates for each repo, create `.env.example` for the MERN app, and add a basic GitHub Actions workflow to run linting. Which of these should I do next?
 # 👋 Hello, I'm Dilshan Pasindu
 
 <p align="center">
