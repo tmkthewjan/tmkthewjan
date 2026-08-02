@@ -1,37 +1,41 @@
 <!-- Profile README for tmkthewjan -->
 
 <p align="center">
-  <img src="https://placehold.co/980x260/0f172a-111827/ffffff?font=inter&fontSize=52&text=Tm.K+Thewjantmkthewjan" alt="Hero Banner" width="100%" />
+  <img src="https://placehold.co/980x260/4f46e5-8b5cf6-ec4899-22d3ee/ffffff?font=Inter&fontSize=56&text=Tm.K+Thewjantmkthewjan" alt="Hero Banner" width="100%" style="border-radius: 26px;" />
 </p>
 
-<p align="center" style="margin-top: 14px;">
-  <img src="https://img.shields.io/badge/Full%20Stack%20Development-06b6d4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Full Stack Development" />
-  <img src="https://img.shields.io/badge/Modern~JavaScript-6366f1?style=for-the-badge&logo=javascript&logoColor=white" alt="Modern JavaScript" />
-  <img src="https://img.shields.io/badge/Data%20Driven-MongoDB-22c55e?style=for-the-badge&logo=mongodb&logoColor=white" alt="Data Driven" />
+<p align="center" style="margin-top: 16px;">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=26&pause=1200&color=ffffff&center=true&width=880&height=72&lines=Designing+visually+rich+web+experiences;Building+scalable+APIs+with+Node.js+%26+Express;Crafting+data-driven+MongoDB+applications" alt="Animated typing" />
+</p>
+
+<p align="center" style="margin-top: 16px;">
+  <img src="https://img.shields.io/badge/Full%20Stack-React%20+%20Node.js-4f46e5?style=for-the-badge&logo=react&logoColor=white" alt="Full Stack" />
+  <img src="https://img.shields.io/badge/Modern%20JavaScript-TypeScript-8b5cf6?style=for-the-badge&logo=typescript&logoColor=white" alt="Modern JavaScript" />
+  <img src="https://img.shields.io/badge/Data%20Intelligence-MongoDB-22c55e?style=for-the-badge&logo=mongodb&logoColor=white" alt="Data Intelligence" />
 </p>
 
 <table align="center" width="100%" style="max-width:980px; margin:28px auto;">
   <tr>
     <td width="62%" valign="top" style="padding: 0 12px;">
       <h1 align="left">Hello, I'm <strong>Tm.K Thewjantmkthewjan</strong></h1>
-      <p align="left">3rd-year Information Technology student focused on elegant, production-ready web applications and full-stack systems.</p>
-      <p align="left">I design modern user interfaces, build scalable backend APIs, and architect MongoDB data flows with a developer-friendly mindset.</p>
+      <p align="left">3rd-year Information Technology student creating polished web products with a bold, modern aesthetic.</p>
+      <p align="left">I build high-impact frontend experiences, reliable backend services, and data-driven applications that feel fast and intuitive.</p>
       <ul align="left">
-        <li>• Frontend: React, Next.js, UI/UX, responsive design</li>
-        <li>• Backend: Node.js, Express, RESTful architecture, authentication</li>
-        <li>• Data: MongoDB, schema modeling, data validation, performance</li>
+        <li>• Frontend: React, Next.js, UI polish, responsive design</li>
+        <li>• Backend: Node.js, Express, API design, secure authentication</li>
+        <li>• Data: MongoDB, schema design, validation, performance tuning</li>
       </ul>
     </td>
     <td width="38%" valign="top" style="padding: 0 12px;">
-      <img src="https://placehold.co/360x260/111827/ffffff?font=inter&fontSize=18&text=Full+Stack+Development+•+Analytics+•+Deployment" alt="Hero Card" width="100%" />
-      <p align="center" style="margin: 12px 0 0; font-weight: 700; color: #334155;">Focused on building polished, scalable systems with real-world value.</p>
+      <img src="https://placehold.co/360x260/0f172a-1e293b/ffffff?font=Inter&fontSize=18&text=Full+Stack+Development+%E2%97%8F+Modern+UI+%E2%97%8F+Smart+Data" alt="Hero Card" width="100%" style="border-radius: 20px;" />
+      <p align="center" style="margin: 12px 0 0; font-weight: 700; color: #94a3b8;">A vibrant brand for scalable applications and developer-first workflows.</p>
     </td>
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge&logo=react&logoColor=white" alt="Frontend" />
-  <img src="https://img.shields.io/badge/Backend-Node.js-green?style=for-the-badge&logo=node.js&logoColor=white" alt="Backend" />
+<p align="center" style="margin-bottom: 8px;">
+  <img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Frontend" />
+  <img src="https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Backend" />
   <img src="https://img.shields.io/badge/Database-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="Database" />
 </p>
 
