@@ -1,8 +1,23 @@
 <!-- Profile README for tmkthewjan -->
 
-# Tm.K Thewjantmkthewjan
+<p align="center">
+  <img src="https://img.shields.io/badge/Full-Stack%20Developer-4B68F0?style=for-the-badge&logo=dev&logoColor=white" alt="Full Stack Developer" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+</p>
 
-3rd-year Information Technology student | Full-stack developer in training
+<h1 align="center">Tm.K Thewjantmkthewjan</h1>
+
+<p align="center">
+  <strong>3rd-year Information Technology student</strong> · Full-stack developer in training
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+</p>
 
 ---
 
