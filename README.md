@@ -1,7 +1,7 @@
 <!-- Profile README for tmkthewjan -->
 
 <p align="center">
-  <img src="https://placehold.co/980x260/4f46e5-8b5cf6-ec4899-22d3ee/ffffff?font=Inter&fontSize=56&text=Tm.K+Thewjantmkthewjan" alt="Hero Banner" width="100%" style="border-radius: 26px;" />
+  <img src="https://placehold.co/980x260/4f46e5-8b5cf6-ec4899-22d3ee/ffffff?font=Inter&fontSize=56&text=Tm.K+Thewjan" alt="Hero Banner" width="100%" style="border-radius: 26px;" />
 </p>
 
 <p align="center" style="margin-top: 16px;">
