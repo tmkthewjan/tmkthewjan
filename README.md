@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,50:7c3aed,100:06b6d4&height=220&section=header&text=Tm.K%20Thewjan&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Information%20Technology%20Undergraduate%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18"/>
+<img src="https://github.com/tmkthewjan.png" width="170" height="170" style="border-radius:50%;" />
 
 # 👋 Hi, I'm Tm.K Thewjan
 
@@ -29,13 +29,15 @@ web and mobile applications.
 
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,50:7c3aed,100:06b6d4&height=120&section=header"/>
+
 # 👨‍💻 About Me
 
 Hi! I'm **Tm.K Thewjan**, an **Information Technology undergraduate at SLIIT** and an aspiring **Full Stack Developer**.
 
-I enjoy developing complete applications from frontend interfaces to backend APIs, databases and application workflows.
+I enjoy developing complete applications across the full development lifecycle — from designing modern user interfaces and developing REST APIs to managing databases and integrating complete application workflows.
 
-My main focus is creating **clean, modern and user-friendly software solutions** while continuously improving my development skills.
+I'm passionate about learning new technologies, solving development challenges and turning ideas into practical software solutions.
 
 ```text
 🎓 Information Technology Undergraduate — SLIIT
@@ -44,7 +46,7 @@ My main focus is creating **clean, modern and user-friendly software solutions**
 📱 Mobile Application Development
 🗄️ Database & API Development
 🔐 Authentication & Role-Based Systems
-🚀 Always Learning & Building
+🚀 Continuous Learning & Development
 ```
 
 ---
@@ -62,7 +64,7 @@ My main focus is creating **clean, modern and user-friendly software solutions**
 
 ---
 
-# 💡 Interests
+# 💡 Areas of Interest
 
 `Full Stack Development` • `React` • `Next.js` • `Node.js` • `Express.js` • `MongoDB` • `PostgreSQL` • `PostGIS` • `REST APIs` • `React Native` • `Expo` • `Software Engineering`
 
@@ -70,7 +72,7 @@ My main focus is creating **clean, modern and user-friendly software solutions**
 
 # 🧰 Tech Stack
 
-## 💻 Languages
+## 💻 Programming Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=javascript,typescript,java,python,html,css" />
@@ -78,7 +80,7 @@ My main focus is creating **clean, modern and user-friendly software solutions**
 
 ---
 
-## ⚛️ Frontend & Mobile
+## ⚛️ Frontend & Mobile Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,reactnative,expo" />
@@ -128,7 +130,7 @@ The project combines a modern frontend, backend APIs and a **PostgreSQL + PostGI
 
 ### 🔗 Repository
 
-<div align="center">
+<div align="left">
 
 <a href="https://github.com/tmkthewjan/Explore-Sri-Lanka">
 <img src="https://img.shields.io/badge/View%20Repository-Explore%20Sri%20Lanka-4f46e5?style=for-the-badge&logo=github&logoColor=white"/>
@@ -300,13 +302,14 @@ A management application designed to streamline **salon operations and service-r
 🎓 Undergraduate
 📚 Information Technology
 💻 Software Development
+🌐 Full Stack Development
 ```
 
 ---
 
 # 📜 Certifications
 
-### 🏅 Full Stack Development
+## 🏅 Full Stack Development
 
 **Skyrek Full Stack Development**
 
@@ -316,27 +319,23 @@ Focused on modern full-stack web development and application development practic
 
 # 📚 Currently Learning
 
-<div align="center">
-
 ```text
-                 📘 LEARNING JOURNEY
+                    📘 LEARNING JOURNEY
 
-                       TypeScript
-                           ↓
-                    Advanced React
-                           ↓
-                       Next.js
-                           ↓
-                  REST API Architecture
-                           ↓
-                    Clean Architecture
-                           ↓
-                 PostgreSQL & PostGIS
-                           ↓
-               Scalable Applications
+                         TypeScript
+                             ↓
+                      Advanced React
+                             ↓
+                          Next.js
+                             ↓
+                    REST API Architecture
+                             ↓
+                      Clean Architecture
+                             ↓
+                   PostgreSQL & PostGIS
+                             ↓
+                  Scalable Applications
 ```
-
-</div>
 
 ### 🎯 Learning Goals
 
@@ -404,17 +403,25 @@ Development
 
 ---
 
-# 🎯 My Goals
+# 🌱 Developer Goals
 
 ```text
 🎯 Become a strong Full Stack Developer
+
 🎯 Build scalable real-world applications
+
 🎯 Improve software architecture skills
+
 🎯 Master modern JavaScript & TypeScript
+
 🎯 Develop production-ready APIs
+
 🎯 Strengthen database development skills
+
 🎯 Explore cloud and deployment technologies
+
 🎯 Contribute to meaningful open-source projects
+
 🎯 Keep learning and improving every day
 ```
 
