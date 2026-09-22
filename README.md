@@ -1,120 +1,99 @@
 <!-- Profile README for tmkthewjan -->
 
-<p align="center">
-  <img src="https://placehold.co/980x260/4f46e5-8b5cf6-ec4899-22d3ee/ffffff?font=Inter&fontSize=56&text=Tm.K+Thewjan" alt="Hero Banner" width="100%" style="border-radius: 26px;" />
-</p>
+<div align="center">
 
-<p align="center" style="margin-top: 16px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=26&pause=1200&color=ffffff&center=true&width=880&height=72&lines=Designing+visually+rich+web+experiences;Building+scalable+APIs+with+Node.js+%26+Express;Crafting+data-driven+MongoDB+applications" alt="Animated typing" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,50:8b5cf6,100:ec4899&height=220&section=header&text=Tm.K%20Thewjan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%" alt="Header Banner"/>
 
-<p align="center" style="margin-top: 16px;">
-  <img src="https://img.shields.io/badge/Full%20Stack-React%20+%20Node.js-4f46e5?style=for-the-badge&logo=react&logoColor=white" alt="Full Stack" />
-  <img src="https://img.shields.io/badge/Modern%20JavaScript-TypeScript-8b5cf6?style=for-the-badge&logo=typescript&logoColor=white" alt="Modern JavaScript" />
-  <img src="https://img.shields.io/badge/Data%20Intelligence-MongoDB-22c55e?style=for-the-badge&logo=mongodb&logoColor=white" alt="Data Intelligence" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&size=24&pause=1200&color=8B5CF6&center=true&width=600&height=50&lines=Full+Stack+Web+Developer;React+%2B+Node.js+%2B+MongoDB;Building+scalable%2C+data-driven+apps" alt="Typing SVG" />
 
-<table align="center" width="100%" style="max-width:980px; margin:28px auto;">
-  <tr>
-    <td width="62%" valign="top" style="padding: 0 12px;">
-      <h1 align="left">Hello, I'm <strong>Tm.K Thewjan</strong></h1>
-      <p align="left">3rd-year Information Technology student creating polished web products with a bold, modern aesthetic.</p>
-      <p align="left">I build high-impact frontend experiences, reliable backend services, and data-driven applications that feel fast and intuitive.</p>
-      <ul align="left">
-        <li>• Frontend: React, Next.js, UI polish, responsive design</li>
-        <li>• Backend: Node.js, Express, API design, secure authentication</li>
-        <li>• Data: MongoDB, schema design, validation, performance tuning</li>
-      </ul>
-    </td>
-    <td width="38%" valign="top" style="padding: 0 12px;">
-      <img src="https://placehold.co/360x260/0f172a-1e293b/ffffff?font=Inter&fontSize=18&text=Full+Stack+Development+%E2%97%8F+Modern+UI+%E2%97%8F+Smart+Data" alt="Hero Card" width="100%" style="border-radius: 20px;" />
-      <p align="center" style="margin: 12px 0 0; font-weight: 700; color: #94a3b8;">A vibrant brand for scalable applications and developer-first workflows.</p>
-    </td>
-  </tr>
-</table>
+<br/>
 
-<p align="center" style="margin-bottom: 8px;">
-  <img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Frontend" />
-  <img src="https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Backend" />
-  <img src="https://img.shields.io/badge/Database-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="Database" />
-</p>
+<img src="https://img.shields.io/badge/Full%20Stack-React%20%2B%20Node.js-4f46e5?style=for-the-badge&logo=react&logoColor=white" alt="Full Stack" />
+<img src="https://img.shields.io/badge/TypeScript-Ready-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/MongoDB-Data%20Layer-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 
----
+</div>
+
+<br/>
 
 ## 👋 About Me
 
-I build polished web applications with clean frontend experiences and scalable backend services. My current focus is on modern JavaScript and TypeScript workflows, RESTful APIs, and MongoDB-powered applications.
+3rd-year **Information Technology** undergraduate (SLIIT) building polished, full-stack web applications — from responsive React frontends to secure Node.js/Express APIs backed by MongoDB.
 
----
+- 🔭 Currently building **full-stack MERN applications** (e-commerce, management systems)
+- 🌱 Sharpening skills in **TypeScript** and clean API design
+- 💬 Ask me about **React, Node.js, Express, MongoDB**
+- 📫 Reach me at **tmkthewjan@gmail.com**
 
-## 🚀 Focus Areas
-
-- Full-stack development with React, Node.js, and Express
-- Strong JavaScript / TypeScript foundation
-- Responsive UI, component-driven design, and accessibility
-- Data persistence with MongoDB and Mongoose
-- Version control, CI-friendly development, and deployment readiness
-
----
+<br/>
 
 ## 🧰 Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
+<div align="center">
 
----
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 
-## 🌐 Languages
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/English-Fluent-4B5563?style=for-the-badge&logo=google&logoColor=white" alt="English" />
-  <img src="https://img.shields.io/badge/Thai-Native-2563EB?style=for-the-badge&logo=google&logoColor=white" alt="Thai" />
-</p>
-
----
+<br/>
 
 ## ✨ Featured Projects
 
-- **Complete-TechStore-MERN-e-commerce-management-system** — A full-stack MERN store demo with product catalog, cart, and checkout flow. ([Repo](https://github.com/tmkthewjan/Complete-TechStore-MERN-e-commerce-management-system))
-- **gym-management-app** — A TypeScript-driven gym management interface for members, schedules, and services. ([Repo](https://github.com/tmkthewjan/gym-management-app))
-- **i-computer** — A JavaScript-focused frontend project showcasing interactive utilities. ([Repo](https://github.com/tmkthewjan/i-computer))
+| Project | Description |
+|---|---|
+| **[Complete TechStore – MERN E-commerce](https://github.com/tmkthewjan/Complete-TechStore-MERN-e-commerce-management-system)** | Full-stack MERN store with product catalog, cart, and checkout flow |
+| **[Gym Management App](https://github.com/tmkthewjan/gym-management-app)** | TypeScript-driven interface for managing members, schedules, and services |
+| **[i-Computer](https://github.com/tmkthewjan/i-computer)** | JavaScript-focused frontend project with interactive utilities |
 
----
+<br/>
 
-## 📊 GitHub Highlights
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://img.shields.io/badge/GitHub%20Profile-tmkthewjan-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
-  <img src="https://img.shields.io/badge/Top%20Languages-JavaScript%2C%20TypeScript-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Top Languages" />
-</p>
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=tmkthewjan&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmkthewjan&layout=compact&hide_border=true&theme=default" alt="Top Languages" height="165"/>
+
+</div>
+
+<br/>
+
+## 🌐 Languages
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/English-Fluent-4B5563?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Thai-Native-2563EB?style=for-the-badge" />
+
+</div>
+
+<br/>
 
 ## 📫 Contact
 
-- GitHub: https://github.com/tmkthewjan
-- Email: tmkthewjan@gmail.com
+<div align="center">
 
----
+<a href="https://github.com/tmkthewjan"><img src="https://img.shields.io/badge/GitHub-tmkthewjan-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:tmkthewjan@gmail.com"><img src="https://img.shields.io/badge/Email-tmkthewjan%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-## ☕ Profile Activity
+<br/><br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tmkthewjan&label=Profile%20Views&color=22D3EE&style=flat-square" alt="Profile Views" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=tmkthewjan&label=Profile%20Views&color=8B5CF6&style=for-the-badge" alt="Profile Views" />
 
----
+</div>
 
-<p align="center">
-  <strong>Thanks for visiting — let’s build something great together.</strong>
-</p>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,100:4f46e5&height=100&section=footer" width="100%"/>
