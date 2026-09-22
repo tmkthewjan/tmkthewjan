@@ -103,7 +103,7 @@ I build polished web applications with clean frontend experiences and scalable b
 ## 📫 Contact
 
 - GitHub: https://github.com/tmkthewjan
-- Email: (add your preferred email address here)
+- Email: tmkthewjan@gmail.com
 
 ---
 
