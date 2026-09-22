@@ -17,7 +17,7 @@
 <table align="center" width="100%" style="max-width:980px; margin:28px auto;">
   <tr>
     <td width="62%" valign="top" style="padding: 0 12px;">
-      <h1 align="left">Hello, I'm <strong>Tm.K Thewjantmkthewjan</strong></h1>
+      <h1 align="left">Hello, I'm <strong>Tm.K Thewjan</strong></h1>
       <p align="left">3rd-year Information Technology student creating polished web products with a bold, modern aesthetic.</p>
       <p align="left">I build high-impact frontend experiences, reliable backend services, and data-driven applications that feel fast and intuitive.</p>
       <ul align="left">
