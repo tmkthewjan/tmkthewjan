@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tmkthewjan/tmkthewjan/main/assets/banner.svg" width="100%" alt="Profile Banner" />
+  <img src="./assets/banner.svg" width="100%" alt="Profile Banner" />
 </p>
 
 <hr />
@@ -145,13 +145,13 @@ My development ethos blends clean code craftsmanship, reliable CI/CD automation,
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tmkthewjan/tmkthewjan/main/assets/snake.svg" alt="Contribution Snake" />
+  <img src="./assets/snake.svg" alt="Contribution Snake" />
 </p>
 
 <hr />
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tmkthewjan/tmkthewjan/main/assets/divider.svg" width="100%" alt="Divider" />
+  <img src="./assets/divider.svg" width="100%" alt="Divider" />
 </p>
 
 <p align="center">
