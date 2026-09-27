@@ -1,7 +1,7 @@
-# 👋 Hello, I'm Dilshan Pasindu
+# 👋 Hello, I'm Kethmika Thewjan
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Dilshan%20Pasindu&fontSize=48&fontColor=ffffff&animation=fadeIn" alt="Dilshan Pasindu" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Dilshan%20Pasindu&fontSize=48&fontColor=ffffff&animation=fadeIn" alt="Kethmika Thewjan" />
 </p>
 
 <p align="center">
