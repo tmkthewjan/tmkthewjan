@@ -1,65 +1,65 @@
 # 👋 Hello, I'm Kethmika Thewjan
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Dilshan%20Pasindu&fontSize=48&fontColor=ffffff&animation=fadeIn" alt="Kethmika Thewjan" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Kethmika%20Thewjan&fontSize=48&fontColor=ffffff&animation=fadeIn" alt="Kethmika Thewjan" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&center=true&width=800&lines=Artificial+Intelligence+Undergraduate;Full+Stack+Developer;Machine+Learning+Enthusiast;Building+AI+Powered+Applications;Open+Source+Contributor;Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&center=true&width=800&lines=Full+Stack+Developer;DevOps+Enthusiast;UI%2FUX+Designer;MERN+Stack+%26+Next.js+15;Cloud+Deployments+%26+Automation;Crafting+Intuitive+Experiences" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Dilshan-Pasindu/Dilshan-Pasindu/main/assets/banner.svg" width="100%" alt="Profile Banner" />
+  <img src="https://raw.githubusercontent.com/tmkthewjan/tmkthewjan/main/assets/banner.svg" width="100%" alt="Profile Banner" />
 </p>
 
 <hr />
 
 ## 🚀 About Me
 
-I am an Artificial Intelligence undergraduate who enjoys building intelligent systems, real-world products, and reliable software experiences. My work focuses on AI, Machine Learning, Deep Learning, RAG, LLMs, Computer Vision, cloud deployment, and full-stack engineering. I am passionate about turning ideas into practical applications and continuously improving my technical craft.
+I am a passionate **Full Stack Developer**, **DevOps Enthusiast**, and **UI/UX Designer** dedicated to architecting scalable digital products, cloud-ready backends, and visually captivating, human-centered web experiences.
+
+My development ethos blends clean code craftsmanship, reliable CI/CD automation, and modern design systems. Whether developing complex MERN & Next.js web applications, building cross-platform mobile apps with React Native, containerizing services with Docker, or designing sleek Figma interfaces, I strive to build software that is both technically robust and delightful to use.
 
 <hr />
 
-## 🧠 AI Expertise
+## ⚡ Core Disciplines
 
 <div align="center">
-  <img src="https://img.shields.io/badge/LLMs-Advanced-22D3EE?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-Systems-8B5CF6?style=for-the-badge&logo=ai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-Optimized-38BDF8?style=for-the-badge&logo=terminal&logoColor=white" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-Research-6366F1?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-Models-14B8A6?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Computer%20Vision-Image%20AI-EC4899?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/NLP-Text%20AI-3B82F6?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%20Agents-Automation-A855F7?style=for-the-badge&logo=robot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Full%20Stack%20Development-MERN%20%26%20Next.js-22D3EE?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/DevOps%20%26%20Cloud-CI%2FCD%20%26%20Docker-8B5CF6?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/UI%2FUX%20Design-Design%20Systems-F43F5E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mobile%20Apps-React%20Native%20%26%20Expo-38BDF8?style=for-the-badge&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Databases-MongoDB%20%26%20PostGIS-10B981?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/API%20Architecture-REST%20%26%20Microservices-F59E0B?style=for-the-badge&logo=express&logoColor=white" />
 </div>
 
 <hr />
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
+### 💻 Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,cs,ts,js,cpp,c" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c,html,css" alt="Programming Languages" />
 </p>
 
-### Frontend & Mobile
+### 🎨 Frontend & UI/UX Design
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind,vite,html,css" alt="Frontend and Mobile" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,redux,figma,xd" alt="Frontend and UI/UX" />
 </p>
 
-### Backend & Cloud
+### ⚙️ Backend & API Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=dotnet,fastapi,nestjs,nodejs,express,spring" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,dotnet" alt="Backend and APIs" />
 </p>
 
-### AI, Machine Learning & RAG
+### ☁️ DevOps, Cloud & CI/CD
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=langchain,tensorflow,pytorch,opencv,sklearn,openai" alt="AI and ML" />
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,git,github,vercel,supabase,cloudflare,firebase" alt="DevOps and Cloud" />
 </p>
 
-### Databases & DevOps
+### 🗄️ Databases & Spatial Storage
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,supabase,mongodb,mysql,sqlite,prisma,docker,git,github,vercel,firebase" alt="Databases and DevOps" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,prisma" alt="Databases" />
 </p>
 
 <hr />
@@ -68,16 +68,17 @@ I am an Artificial Intelligence undergraduate who enjoys building intelligent sy
 
 <p align="center">
   <img src="https://img.shields.io/badge/GitHub%20Stats-Available-22D3EE?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Stats Badge" />
-  <img src="https://img.shields.io/badge/Top%20Domains-AI%20%26%20Full--Stack-8B5CF6?style=for-the-badge&logo=python&logoColor=white" alt="Top Domains Badge" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%26%20DevOps-8B5CF6?style=for-the-badge&logo=react&logoColor=white" alt="Focus Badge" />
+  <img src="https://img.shields.io/badge/Design-UI%2FUX%20%26%20Figma-EC4899?style=for-the-badge&logo=figma&logoColor=white" alt="Design Badge" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Multi--Agent%20%26%20RAG-38BDF8?style=for-the-badge&logo=robot&logoColor=white" alt="Focus Badge" />
-  <img src="https://img.shields.io/badge/Status-Building%20Intelligent%20Systems-EC4899?style=for-the-badge&logo=rocket&logoColor=white" alt="Status Badge" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tmkthewjan&show_icons=true&theme=tokyonight&hide_border=true&title_color=22D3EE&icon_color=8B5CF6&text_color=94A3B8&bg_color=0F172A" height="175" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmkthewjan&layout=compact&theme=tokyonight&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0F172A" height="175" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Dilshan-Pasindu"><img src="https://img.shields.io/badge/View%20GitHub%20Profile-Dilshan%20Pasindu-111827?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub Profile" /></a>
+  <a href="https://github.com/tmkthewjan"><img src="https://img.shields.io/badge/View%20GitHub%20Profile-tmkthewjan-111827?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub Profile" /></a>
 </p>
 
 <hr />
@@ -88,13 +89,10 @@ I am an Artificial Intelligence undergraduate who enjoys building intelligent sy
 
 | Project | Description & Key Highlights | Tech Stack |
 |---|---|---|
-| [🩺 **MediFlow AI**](https://github.com/Dilshan-Pasindu/MediFlow-AI-) | **Multi-Agent Healthcare & Clinical Management Ecosystem**<br>Full-stack channeling center platform featuring AI specialist recommendations, doctor clinical decision support (CDS), e-prescriptions, and AI-monitored inventory restocking with Human-in-the-Loop workflows. | `ASP.NET Core 8`, `PostgreSQL 16`, `React 19`, `TypeScript`, `Flutter`, `LangGraph`, `FastAPI` |
-| [📑 **DP Research Hub**](https://github.com/Dilshan-Pasindu/AI-Research-Paper-Summarizer-Research-Assistant) | **AI Research Assistant & RAG Platform**<br>Production-ready research intelligence platform supporting PDF parsing, context-aware RAG chat, citation extraction, structured paper summaries, and side-by-side paper comparisons. | `Next.js 15`, `NestJS`, `FastAPI`, `LangChain`, `Gemini API`, `ChromaDB`, `PostgreSQL`, `Docker` |
-| [💻 **DP Laptop Advisor**](https://github.com/Dilshan-Pasindu/Laptop-Recommendation-System) | **ML-Powered Laptop Recommendation Engine**<br>Full-stack intelligent recommendation system evaluating 3,900+ laptops with Cosine Similarity, weighted multi-factor scoring, live autocomplete, and 13-category comparison. | `FastAPI`, `Scikit-learn`, `Python`, `React 19`, `Vite`, `Framer Motion`, `Pandas` |
-| [🛡️ **EquiHire-Core**](https://github.com/Dilshan-Pasindu/EquiHire-Core) | **AI-Native Blind Assessment Platform**<br>Cognitive bias firewall for technical hiring that redacts candidate PII, runs zero-shot relevance screening with HuggingFace, and performs adaptive scoring via Gemini Flash with real-time integrity monitoring. | `WSO2 Ballerina`, `Python`, `Gemini Flash`, `HuggingFace BART`, `Supabase`, `Cloudflare R2`, `React` |
-| [🚗 **VSRMS**](https://github.com/Dilshan-Pasindu/vehicle-repair-rms) | **Vehicle Service & Repair Management System**<br>Mobile-first platform connecting vehicle owners and workshops with GeoJSON geospatial discovery, real-time appointment state machines, and historical service tracking. | `React Native (Expo)`, `Node.js`, `Express`, `MongoDB Atlas`, `Cloudflare R2`, `WSO2 Asgardeo` |
-| [❤️ **Heart Disease Risk Classifier**](https://github.com/Dilshan-Pasindu/my_classifier_project) | **Clinical Machine Learning Prediction System**<br>End-to-end ML classification pipeline for heart disease risk with exploratory data analysis, hyperparameter tuning, ROC/confusion matrix evaluation, and interactive Streamlit web app. | `Python`, `Scikit-learn`, `Streamlit`, `Pandas`, `Joblib`, `Matplotlib` |
-| [🤖 **DP ChatBot**](https://github.com/Dilshan-Pasindu/DPChatBot-P1-) | **Conversational Assistant & Utility Agent**<br>Interactive conversational assistant built with persistent user memory, mathematical calculations, integrated mini-games, and conversational session history tracking. | `Python`, `JSON`, `CLI` |
+| [🇱🇰 **Explore Sri Lanka**](https://github.com/tmkthewjan/Explore-Sri-Lanka) | **Full-Stack Tourism & PostGIS Geolocation Discovery Platform**<br>Modern spatial exploration platform featuring real-time GPS proximity detection (5km–50km radius), geodesic spatial queries with PostgreSQL/PostGIS GiST indexing, and interactive Mapbox GL navigation. | `Next.js 15 (App Router)`, `TypeScript`, `Tailwind CSS`, `Node.js`, `Express`, `PostgreSQL + PostGIS`, `Mapbox GL` |
+| [🛒 **TechStore MERN**](https://github.com/tmkthewjan/Complete-TechStore-MERN-e-commerce-management-system) | **Full-Featured MERN E-Commerce & Inventory Management Suite**<br>Production-grade online retail platform featuring an administrative portal, role-based JWT authentication, password reset workflows, cart & checkout state machines, and Supabase integration. | `React 19`, `Vite`, `Tailwind CSS`, `Node.js`, `Express`, `MongoDB (Mongoose)`, `Supabase`, `Nodemailer` |
+| [🏋️‍♂️ **Royal Fitness**](https://github.com/tmkthewjan/gym-management-app) | **Cross-Platform Gym & Membership Management Mobile App**<br>Mobile-first wellness & fitness ecosystem built with React Native and Expo Router v6. Includes member profile management, scheduling, secure token authentication, and multi-part asset handling. | `React Native (Expo SDK 54)`, `Expo Router v6`, `TypeScript`, `Node.js`, `Express`, `MongoDB`, `JWT`, `Multer` |
+| [💻 **i-Computer Portal**](https://github.com/tmkthewjan/i-computer) | **Computer Sales & Hardware Service Management System**<br>Full-stack web application designed for computer repair centers and electronics retailers, providing hardware catalog administration, customer auth, and repair tracking. | `React 19`, `Tailwind CSS`, `Node.js`, `Express`, `MongoDB`, `Axios`, `Bcrypt` |
 
 </div>
 
@@ -102,44 +100,43 @@ I am an Artificial Intelligence undergraduate who enjoys building intelligent sy
 
 ## 🎯 Current Focus
 
-- 🧠 **Multi-Agent Systems & Agentic AI** — Orchestrating autonomous workflows using LangGraph and FastAPI with Human-in-the-Loop decision gates.
-- 🔍 **Advanced RAG & Knowledge Retrieval** — Building high-accuracy semantic search, hybrid vector retrieval, and citation-grounded LLM systems.
-- 🏥 **Healthcare & Enterprise AI** — Developing reliable, production-grade applications with modern cross-platform stacks (ASP.NET Core, Next.js, Flutter, React).
-- 📈 **Machine Learning Pipelines** — Designing end-to-end data preparation, model evaluation, and deployment workflows.
+- 🌐 **Modern Full-Stack Applications** — Building responsive, high-performance web applications leveraging Next.js 15 App Router, React 19, and scalable RESTful microservices.
+- ⚙️ **DevOps & Cloud Automation** — Designing streamlined CI/CD pipelines, containerizing environments with Docker, and setting up automated deployments on Vercel and cloud platforms.
+- 🎨 **UI/UX Design Systems** — Translating Figma wireframes and high-fidelity mockups into pixel-perfect, accessible, and intuitive interactive interfaces with Tailwind CSS.
+- 🗺️ **Geospatial & Location-Aware Tech** — Exploring spatial data architectures, PostGIS spatial indexing, and interactive map visualizations.
 
 <hr />
 
-## 🏆 Achievements
+## 🏆 Philosophy & Goals
 
-- GitHub Trophies
-- Open Source Contributions
-- Building production-minded projects
-- Continuous learning in AI and software engineering
+- 💡 **Clean, Maintainable Code** — Writing modular, well-documented, and testable codebases.
+- 🚀 **Automation First** — Automating repetitive workflows through continuous integration and deployment pipelines.
+- 🎯 **User-Centric Design** — Prioritizing seamless user journeys, accessibility, and high visual polish.
+- 📚 **Continuous Growth** — Exploring cutting-edge frontend libraries, cloud infrastructure patterns, and distributed systems.
 
 <hr />
 
 ## 🌐 Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/dilshan-pasindu-4a477122a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:dilshanpasindu4002@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/Dilshan-Pasindu" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://github.com/Dilshan-Pasindu?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/Projects-Repository%20List-22D3EE?style=for-the-badge&logo=github&logoColor=white" alt="Projects" /></a>
+  <a href="https://github.com/tmkthewjan" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://github.com/tmkthewjan?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/Projects-Repository%20List-22D3EE?style=for-the-badge&logo=github&logoColor=white" alt="Projects" /></a>
+  <a href="mailto:thewjan2004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <hr />
 
-## ☕ Fun Section
+## ☕ Metrics & Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dilshan-Pasindu&label=Profile%20Views&color=22D3EE&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Coffee%20Consumed-∞-8B5CF6?style=flat-square&logo=coffeescript&logoColor=white" alt="Coffee Counter" />
-  <img src="https://img.shields.io/badge/Focus-AI%20Products-0EA5E9?style=flat-square&logo=rocket&logoColor=white" alt="Focus Badge" />
+  <img src="https://komarev.com/ghpvc/?username=tmkthewjan&label=Profile%20Views&color=22D3EE&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%26%20DevOps-8B5CF6?style=flat-square&logo=code&logoColor=white" alt="Focus Badge" />
+  <img src="https://img.shields.io/badge/Design-Pixel%20Perfect-EC4899?style=flat-square&logo=figma&logoColor=white" alt="Design Badge" />
 </p>
 
 <p align="center">
   <blockquote>
-    <i>Build what matters and learn every day.</i>
+    <i>"Transforming ideas into resilient code and captivating user experiences."</i>
   </blockquote>
 </p>
 
@@ -148,16 +145,15 @@ I am an Artificial Intelligence undergraduate who enjoys building intelligent sy
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Dilshan-Pasindu/Dilshan-Pasindu/main/assets/snake.svg" alt="Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/tmkthewjan/tmkthewjan/main/assets/snake.svg" alt="Contribution Snake" />
 </p>
 
 <hr />
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Dilshan-Pasindu/Dilshan-Pasindu/main/assets/divider.svg" width="100%" alt="Divider" />
+  <img src="https://raw.githubusercontent.com/tmkthewjan/tmkthewjan/main/assets/divider.svg" width="100%" alt="Divider" />
 </p>
 
 <p align="center">
-  <b>Thanks for visiting my profile — let's build something amazing together.</b>
+  <b>Thanks for visiting my profile — let's build something extraordinary together!</b>
 </p>
-
