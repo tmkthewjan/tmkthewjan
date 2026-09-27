@@ -18,7 +18,11 @@
 
 I am a passionate **Full Stack Developer**, **DevOps Enthusiast**, and **UI/UX Designer** dedicated to architecting scalable digital products, cloud-ready backends, and visually captivating, human-centered web experiences.
 
-My development ethos blends clean code craftsmanship, reliable CI/CD automation, and modern design systems. Whether developing complex MERN & Next.js web applications, building cross-platform mobile apps with React Native, containerizing services with Docker, or designing sleek Figma interfaces, I strive to build software that is both technically robust and delightful to use.
+- 💻 **Full Stack Engineering** — Architecting robust web and mobile ecosystems using Next.js 15, React 19, React Native, and Node.js / Express.
+- ⚙️ **DevOps & Cloud Automation** — Streamlining continuous integration & deployment (CI/CD) pipelines, Docker containerization, and automated cloud workflows.
+- 🎨 **UI/UX Design Systems** — Designing user-centric interfaces, design systems, and responsive layouts with Figma and Tailwind CSS.
+- 🚀 **Production-Minded Builder** — Developing real-world solutions ranging from PostGIS spatial platforms to high-concurrency MERN retail portals.
+
 
 <hr />
 
